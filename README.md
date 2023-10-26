@@ -1,1 +1,1 @@
-empty astro 3 template
+available at https://a-w.netlify.app
