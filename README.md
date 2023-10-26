@@ -1,0 +1,1 @@
+empty astro 3 template
